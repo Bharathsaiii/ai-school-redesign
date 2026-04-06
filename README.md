@@ -1,36 +1,39 @@
-# AI Ready School Homepage Redesign
+AI Ready School – Homepage Redesign
 
-## 🔍 Problems Identified
+Step 1 — Audit
 
-* The hero section does not clearly communicate that the platform is meant for schools and learning.
-* Target audience (students, teachers, schools) is not immediately clear.
-* Product names in navigation are not intuitive for first-time users.
-* Logo visibility and layout alignment can be improved.
-* Important trust and clarity elements appear only after scrolling.
+Navigation has too many options, creating confusion for first-time users
+Hero section does not clearly explain the product immediately
+Value proposition is not visible upfront
+Trust indicators are not emphasized early
 
-## 🎯 What I Prioritized
+Step 2 — Design
 
-* Designed a clear and focused hero section with strong value proposition.
-* Simplified navigation to improve usability and reduce confusion.
-* Added a strong call-to-action ("Book Demo") for better conversion.
-* Reorganized product section into easy-to-understand categories.
+Simplified navigation to reduce cognitive load
+Redesigned hero section with clearer messaging
+Added an “AI Insight” panel to quickly explain the product, audience, and trust
+Improved spacing and visual hierarchy
 
-## 🚀 What I Would Improve with More Time
+Step 3 — Build
 
-* Add testimonials and school logos for trust-building.
-* Improve visual hierarchy with icons and illustrations.
-* Add animations and micro-interactions.
-* Enhance mobile responsiveness further.
+Built using React and CSS
+Focused on navigation and hero as high-impact sections
+Ensured responsive layout
 
-## 🛠️ Tech Stack
+What I prioritized
 
-* React (Vite)
-* CSS (Flexbox & Grid)
+Clear value communication in the first screen
+Simple and usable navigation and made the Navbar sticky
+Fast understanding for a school decision-maker
 
-## 🌐 Live Demo
+What I would do next:
 
-(Add your Vercel link here)
+Improve product sections with clearer structure
+Add stronger testimonials and trust signals
+Add micro-interactions and polish
 
-## 📂 GitHub Repo
+Live Link
+(Add your Vercel link)
 
-(Add your GitHub repo link here)
+Repository
+(Add your GitHub link)
