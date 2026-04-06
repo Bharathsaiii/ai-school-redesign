@@ -1,0 +1,70 @@
+:root {
+  --text: #6b6375;
+  --text-h: #08060d;
+  --bg: #ffffff;
+  --border: #e5e4e7;
+
+  --sans: system-ui, 'Segoe UI', Roboto, sans-serif;
+
+  font-family: var(--sans);
+  color: var(--text);
+  background: var(--bg);
+
+  /* ❌ REMOVE DARK MODE AUTO SWITCH (causing black bg issues) */
+  /* color-scheme: light dark; */
+}
+
+/* ❌ REMOVE DARK MODE BLOCK (optional but safer for now) */
+/*
+@media (prefers-color-scheme: dark) {
+  :root {
+    ...
+  }
+}
+*/
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #ffffff; /* force white */
+}
+
+/* 🔥 MAIN FIX HERE */
+#root {
+  width: 100%;          /* FULL WIDTH */
+  min-height: 100vh;    /* FULL HEIGHT */
+}
+
+/* ✅ KEEP TYPOGRAPHY CLEAN */
+h1,
+h2 {
+  font-family: var(--sans);
+  font-weight: 600;
+  color: var(--text-h);
+  margin: 0;
+}
+
+h1 {
+  font-size: 48px;
+  line-height: 1.2;
+}
+
+h2 {
+  font-size: 28px;
+}
+
+p {
+  margin: 0;
+  color: #555;
+}
+
+/* ✅ RESPONSIVE FIX */
+@media (max-width: 768px) {
+  h1 {
+    font-size: 32px;
+  }
+
+  h2 {
+    font-size: 22px;
+  }
+}
