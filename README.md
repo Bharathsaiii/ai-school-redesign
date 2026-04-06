@@ -37,3 +37,10 @@ https://ai-school-redesign-psi.vercel.app
 
 Repository
 https://github.com/Bharathsaiii/ai-school-redesign
+
+Summary:
+
+- Identified that the navigation was cluttered, the hero section lacked clarity, and the value proposition was not immediately visible.
+- Prioritized simplifying the navigation and redesigning the hero section to clearly communicate what the product is, who it is for, and why it matters.
+- Focused on improving visual hierarchy, spacing, and adding an "AI Insight" panel to quickly build understanding and trust for first-time users.
+- With more time, I would expand the product sections, refine interactions, and improve the overall storytelling across the page.
