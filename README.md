@@ -32,8 +32,8 @@ Improve product sections with clearer structure
 Add stronger testimonials and trust signals
 Add micro-interactions and polish
 
-Live Link
-(Add your Vercel link)
+Vercel Live Link
+https://ai-school-redesign-psi.vercel.app
 
 Repository
-(Add your GitHub link)
+https://github.com/Bharathsaiii/ai-school-redesign
